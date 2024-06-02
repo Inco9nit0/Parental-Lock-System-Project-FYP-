@@ -1,0 +1,141 @@
+<mxfile host="app.diagrams.net" modified="2024-06-02T01:15:47.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.4.13" etag="SSTBvp-ucVZ_7CATtZqc" type="github">
+  <diagram name="Page-1" id="m4BcOnyXe-cjXpLT4nwV">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Start" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="349" width="51" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Register_Parent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="103" width="128" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Login_Parent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="206" width="109" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Enable_Lock" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="322" y="309" width="105" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Website_Filtering" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="15" y="412" width="141" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Set_Time_Limits" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="207" y="412" width="134" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Block_Apps" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="412" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Generate_PIN_ID" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="536" y="412" width="137" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Link_Child_Device" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="723" y="412" width="146" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Enter_PIN_ID" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="515" width="108" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Link_Successful" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="501" y="618" width="126" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Forgot_PIN_ID" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="674" y="515" width="116" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Reset_PIN_ID" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="678" y="618" width="109" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="New_PIN_ID" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="745" y="721" width="101" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Create Account" style="curved=1;startArrow=none;endArrow=block;exitX=0.5044041053921569;exitY=1;entryX=0.4978485107421875;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="Login" style="curved=1;startArrow=none;endArrow=block;exitX=0.4978485107421875;exitY=1;entryX=0.5020606364678899;entryY=0;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="Enable Parental Lock" style="curved=1;startArrow=none;endArrow=block;exitX=0.5020606364678899;exitY=1;entryX=0.5021391369047619;entryY=0;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="Set up Website Filtering" style="curved=1;startArrow=none;endArrow=block;exitX=0.0017671130952380952;exitY=0.7755556563350448;entryX=0.5029920212765957;entryY=0;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="86" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="Set Time Limits" style="curved=1;startArrow=none;endArrow=block;exitX=0.18356720266990306;exitY=1;entryX=0.49545242537313433;entryY=0;" edge="1" parent="1" source="5" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="273" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="Block Apps" style="curved=1;startArrow=none;endArrow=block;exitX=0.7016648968446599;exitY=1;entryX=0.5019938151041666;entryY=0;" edge="1" parent="1" source="5" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="438" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="Generate PIN/Parent ID" style="curved=1;startArrow=none;endArrow=block;exitX=1.0025111607142858;exitY=0.8464024504594614;entryX=0.4997148722627737;entryY=0;" edge="1" parent="1" source="5" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="Link Child Device" style="curved=1;startArrow=none;endArrow=block;exitX=1.0025111607142858;exitY=0.6891123901070474;entryX=0.4968428938356164;entryY=0;" edge="1" parent="1" source="5" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="796" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="Enter PIN/Parent ID" style="curved=1;startArrow=none;endArrow=block;exitX=-0.0018728595890410958;exitY=0.9772622302299564;entryX=0.5041775173611112;entryY=0;" edge="1" parent="1" source="10" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="Link Successful" style="curved=1;startArrow=none;endArrow=block;exitX=0.5041775173611112;exitY=1;entryX=0.5035807291666666;entryY=0;" edge="1" parent="1" source="11" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="Forgot PIN/Parent ID" style="curved=1;startArrow=none;endArrow=block;exitX=0.3533483404541829;exitY=1;entryX=0.5006229795258621;entryY=0;" edge="1" parent="1" source="10" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="732" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="Reset PIN/Parent ID" style="curved=1;startArrow=none;endArrow=block;exitX=0.5006229795258621;exitY=1;entryX=0.49607583142201833;entryY=0;" edge="1" parent="1" source="13" target="14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="New PIN/Parent ID Generated" style="curved=1;startArrow=none;endArrow=block;exitX=0.49607583142201833;exitY=1;entryX=0.2929589871911951;entryY=0;" edge="1" parent="1" source="14" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="732" y="687" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7078145276602901;exitY=0;entryX=0.64033744721705;entryY=1;" edge="1" parent="1" source="15" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="859" y="687" />
+              <mxPoint x="859" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
