@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "678930467103",
+    "firebase_url": "https://testing-9da72-default-rtdb.firebaseio.com",
+    "project_id": "testing-9da72",
+    "storage_bucket": "testing-9da72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678930467103:android:ad77aa8a259169b707c82a",
+        "android_client_info": {
+          "package_name": "com.ClickShield.androidapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678930467103-pj8fgorlkcj78lm4osjqovm1fiu11tef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTwhXuRscdA-gZsaxYLbBUeT24Z09uWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678930467103-pj8fgorlkcj78lm4osjqovm1fiu11tef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678930467103:android:4f1703cce464f94307c82a",
+        "android_client_info": {
+          "package_name": "com.MonitoKids.androidapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678930467103-pj8fgorlkcj78lm4osjqovm1fiu11tef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTwhXuRscdA-gZsaxYLbBUeT24Z09uWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678930467103-pj8fgorlkcj78lm4osjqovm1fiu11tef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678930467103:android:da78351802acd4e407c82a",
+        "android_client_info": {
+          "package_name": "com.TripleTB.androidapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678930467103-pj8fgorlkcj78lm4osjqovm1fiu11tef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTwhXuRscdA-gZsaxYLbBUeT24Z09uWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678930467103-pj8fgorlkcj78lm4osjqovm1fiu11tef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
